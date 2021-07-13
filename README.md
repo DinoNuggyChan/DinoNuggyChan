@@ -18,7 +18,7 @@
 <p align="center">
     <a href="https://discord.gg/EuhpdZxm57"><img src="https://img.shields.io/badge/-Dino Nuggy~_0001-5e79ff?style=flat&logo=discord"/></a>
     <a href="https://steamcommunity.com/id/OniChanInc"><img src="https://img.shields.io/badge/-dino nuggy~ ღ-5e79ff?style=flat&logo=steam"/></a>
-    <a href="https://waa.ai/nuggy"><img src="https://img.shields.io/badge/-My_Website-5e79ff?style=flat"/></a>
+    <a href="https://www.nuggy.space/"><img src="https://img.shields.io/badge/-My_Website-5e79ff?style=flat"/></a>
 </p>
 
 > thanks [narumii](https://github.com/narumii) for readme
