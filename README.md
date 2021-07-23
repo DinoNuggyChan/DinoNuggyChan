@@ -3,6 +3,10 @@
 </p>
 
 ---
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinoNuggyChan&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+</p>
+---
 
 <img alt="gif" src="https://i.imgur.com/4TpbeWn.jpeg" align="right"/>
 
