@@ -3,9 +3,14 @@
 </p>
 
 ---
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DinoNuggyChan&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-</p>
+
+<a href="https://github.com/DinoNuggyChan/Topgg-custom-page">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DinoNuggyChan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/DinoNuggyChan/Topgg-custom-page">
+    <img align="center" height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoNuggyChan&layout=compact&theme=blue-green"/>
+</a>
+
 ---
 
 <img alt="gif" src="https://i.imgur.com/4TpbeWn.jpeg" align="right"/>
@@ -25,5 +30,15 @@
     <a href="https://www.nuggy.space/"><img src="https://img.shields.io/badge/-My_Website-5e79ff?style=flat"/></a>
 </p>
 
-> thanks [narumii](https://github.com/narumii) for readme
+---
+
+<a href="https://github.com/DinoNuggyChan/Topgg-custom-page">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinoNuggyChan&theme=blue-green&repo=Topgg-custom-page"/>
+</a>
+<a href="https://github.com/DinoNuggyChan/NuggetBot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinoNuggyChan&theme=blue-green&repo=NuggetBot"/>
+</a>
+
+---
+
 
