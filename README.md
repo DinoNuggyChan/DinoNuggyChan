@@ -8,7 +8,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DinoNuggyChan&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/DinoNuggyChan/Topgg-custom-page">
-    <img align="center" height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoNuggyChan&layout=compact&theme=blue-green"/>
+    <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoNuggyChan&layout=compact&theme=blue-green"/>
 </a>
 
 ---
