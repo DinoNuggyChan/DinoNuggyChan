@@ -4,10 +4,10 @@
 
 ---
 
-<a href="https://github.com/DinoNuggyChan/Topgg-custom-page">
+<a href="https://github.com/DinoNuggyChan/">
     <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=DinoNuggyChan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/DinoNuggyChan/Topgg-custom-page">
+<a href="https://github.com/DinoNuggyChan/">
     <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoNuggyChan&layout=compact&theme=dark"/>
 </a>
 
