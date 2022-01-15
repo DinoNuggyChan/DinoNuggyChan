@@ -38,12 +38,3 @@
 
 ---
 
-<a href="https://github.com/DinoNuggyChan/Topgg-custom-page">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinoNuggyChan&theme=dark&repo=Topgg-custom-page"/>
-</a>
-<a href="https://github.com/DinoNuggyChan/NuggetBot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DinoNuggyChan&theme=dark&repo=NuggetBot"/>
-</a>
-
----
-
