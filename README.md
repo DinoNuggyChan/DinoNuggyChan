@@ -23,6 +23,7 @@
 
 #### Languages
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-5e79ff)
+- ![Python](https://img.shields.io/badge/-Python-5e79ff)
 - ![HTML](https://img.shields.io/badge/-HTML-5e79ff)
 - ![CSS](https://img.shields.io/badge/-CSS-5e79ff)
 #### Programs
