@@ -10,15 +10,6 @@
     
 ---
 
-<a href="https://github.com/DinoNuggyChan/">
-    <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=DinoNuggyChan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/DinoNuggyChan/">
-    <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoNuggyChan&layout=compact&langs_count=6&theme=dark"/>
-</a>
-
----
-
 <img alt="gif" src="https://i.imgur.com/4TpbeWn.jpeg" align="right"/>
 
 #### Languages
