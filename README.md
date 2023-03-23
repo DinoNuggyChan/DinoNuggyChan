@@ -1,8 +1,4 @@
 <p align="center">
-    <img height="100em" src="https://count.getloli.com/get/@nuggy?theme=gelbooru"/>
-</p>
-
-<p align="center">
     <a href="https://discord.com/users/411704274599542794">
         <img src="https://discord.c99.nl/widget/theme-2/411704274599542794.png" alt="Discord"/>
     </a>
