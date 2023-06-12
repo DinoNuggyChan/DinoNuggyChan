@@ -19,7 +19,6 @@
 ---
 
 <p align="center">
-    <a href="https://steamcommunity.com/id/OniChanInc"><img src="https://img.shields.io/badge/-dino nuggy~ ღ-5e79ff?style=flat&logo=steam"/></a>
     <a href="https://www.nuggy.space/"><img src="https://img.shields.io/badge/-My_Website-5e79ff?style=flat"/></a>
 </p>
 
