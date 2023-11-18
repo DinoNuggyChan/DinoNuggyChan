@@ -20,7 +20,7 @@
 
 <p align="center">
     <a href="https://www.nuggy.space/"><img src="https://img.shields.io/badge/-My_Website-5e79ff?style=flat"/></a>
-    <a href="https://www.denomoves.site/"><img src="https://img.shields.io/badge/-Movie_Website-5e79ff?style=flat"/></a>
+    <a href="https://denomoves.site/"><img src="https://img.shields.io/badge/-Movie_Website-5e79ff?style=flat"/></a>
 </p>
 
 ---
