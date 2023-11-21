@@ -16,7 +16,7 @@
 - ![PHP](https://img.shields.io/badge/-PHP-5e79ff)
 
 <p align="right">
-<img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/catto.gif"/>
+<img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/background3.gif"/>
 </p>
 
 ---
