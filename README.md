@@ -5,7 +5,9 @@
     </p>
     
 <p>
+    
 ---
+    
 <img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/background1.webp" align="right"/>
 
 #### Languages
