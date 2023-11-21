@@ -19,8 +19,8 @@
 - ![C++](https://img.shields.io/badge/-C++-5e79ff)
 - ![PHP](https://img.shields.io/badge/-PHP-5e79ff)
 
----
 </p>
+---
 <p align="center">
     <a href="https://www.nuggy.space/"><img src="https://img.shields.io/badge/-My_Website-5e79ff?style=flat"/></a>
     <a href="https://denomoves.site/"><img src="https://img.shields.io/badge/-Movie_Website-5e79ff?style=flat"/></a>
