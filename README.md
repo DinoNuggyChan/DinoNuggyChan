@@ -5,6 +5,7 @@
     </p>
     
 ---
+<img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/background3.gif" align="right"/>
 
 #### Languages
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-5e79ff)
@@ -14,10 +15,6 @@
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-5e79ff)
 - ![C++](https://img.shields.io/badge/-C++-5e79ff)
 - ![PHP](https://img.shields.io/badge/-PHP-5e79ff)
-
-<p align="right">
-<img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/background3.gif"/>
-</p>
 
 ---
 
