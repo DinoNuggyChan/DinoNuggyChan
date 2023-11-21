@@ -13,9 +13,7 @@
 - ![Python](https://img.shields.io/badge/-Python-5e79ff)
 - ![HTML](https://img.shields.io/badge/-HTML-5e79ff)
 - ![CSS](https://img.shields.io/badge/-CSS-5e79ff)
-#### Programs
-- ![ide](https://img.shields.io/badge/-VS_Code-5e79ff)
-- ![(another) ide](https://img.shields.io/badge/-Repl.it-5e79ff)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-5e79ff)
 ---
 
 <p align="center">
