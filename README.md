@@ -21,6 +21,7 @@
 </p>
 
 ---
-
-<img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/catto.gif" align="center"/>
+<p align="center">
+<img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/catto.gif"/>
+</p>
 
