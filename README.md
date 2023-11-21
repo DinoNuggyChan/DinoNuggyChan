@@ -15,7 +15,7 @@
 - ![C++](https://img.shields.io/badge/-C++-5e79ff)
 - ![PHP](https://img.shields.io/badge/-PHP-5e79ff)
 
-<p align="center">
+<p align="right">
 <img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/catto.gif"/>
 </p>
 
