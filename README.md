@@ -6,7 +6,7 @@
     
 ---
 
-<img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/catto.gif" align="right"/>
+<img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/catto.gif" align="center"/>
 
 
 #### Languages
