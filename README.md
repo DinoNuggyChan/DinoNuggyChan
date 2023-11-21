@@ -6,7 +6,7 @@
     
 ---
 
-<img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/background1.webp" align="right"/>
+<img alt="gif" src="https://nuggy.space/bruh.nugs.sbs/projects/catto.gif" align="right"/>
 
 #### Languages
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-5e79ff)
